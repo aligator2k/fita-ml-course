@@ -24,11 +24,6 @@ Spēļu izdevēji var izmantot šo modeli kā pirmo filtru, lai novērtētu spē
 - Accuracy = 84%
 - Galvenā iezīme: `completion_rate` (importance: 0.194)
 
-## Dati
-`game_info.csv` nav iekļauts repozitorijā faila izmēra dēļ.
-Lejupielādē no: https://www.kaggle.com/datasets/jummyegg/rawg-game-dataset
-Saglabā kā `data/game_info.csv`
-
 ## Kā palaist
 1. `pip install -r requirements.txt`
 2. Ielādē datasetu no Kaggle saites augstāk → saglabā `data/game_info.csv`
